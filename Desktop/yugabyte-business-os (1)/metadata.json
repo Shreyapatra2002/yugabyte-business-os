@@ -1,0 +1,6 @@
+{
+  "name": "YugaByte BOS",
+  "description": "Enterprise-grade landing and B2B SaaS dashboard platform powered by intelligent automation, multi-tenant isolation sandboxes, and structural telemetry diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
